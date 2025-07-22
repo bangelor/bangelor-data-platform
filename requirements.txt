@@ -1,3 +1,6 @@
 pandas
 pyarrow
-apache-airflow[google]
+dbt-core
+dbt-airflow
+duckdb>=0.10.0
+dbt-duckdb
